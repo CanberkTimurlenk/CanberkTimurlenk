@@ -22,13 +22,13 @@ canberk.timurlenk@gmail.com
 <br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript logo"  />
 </div>
 
 <br>
@@ -38,13 +38,13 @@ canberk.timurlenk@gmail.com
 <br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" height="40" alt="automapper logo"  />
+  <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" width="50" height="50" alt="automapper logo"  />
 </div>
 
 <br>
@@ -53,7 +53,7 @@ canberk.timurlenk@gmail.com
 
 <div>
   <a href="https://www.linkedin.com/in/canberk-timurlenk/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="LinkedIn" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="LinkedIn" width="50" height="50" />
   </a>
   <img width="12" />
   <a href="mailto:canberk.timurlenk@gmail.com">
