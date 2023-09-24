@@ -49,6 +49,16 @@ canberk.timurlenk@gmail.com
 
 <br>
 
+### Databases
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+</div>
+
+<br>
+
 # 🌐 Contact
 
 <div>
@@ -60,6 +70,7 @@ canberk.timurlenk@gmail.com
     <img src="https://winaero.com/blog/wp-content/uploads/2019/02/Windows-10-Mail-icon.png" alt="LinkedIn" width="50" height="50" />
   </a>
 </div>
+
 
 
 
