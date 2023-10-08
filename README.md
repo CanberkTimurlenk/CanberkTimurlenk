@@ -45,6 +45,8 @@ canberk.timurlenk@gmail.com
   <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" width="50" height="50" alt="automapper logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="50" height="50" alt="hangfire logo"  />
 </div>
 
 <br>
