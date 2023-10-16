@@ -38,15 +38,20 @@ canberk.timurlenk@gmail.com
 <br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq logo"  />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" width="50" height="50" alt="automapper logo"  />
+  <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" width="50" height="50" alt="automapper"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="50" height="50" alt="hangfire logo"  />
+  <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="50" height="50" alt="hangfire"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/73644073/262452910-8b64c1b5-24bd-4650-bc89-01d3f5c32380.png" width="50" height="50" alt="serilog"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/73644073/262451516-abce2e5e-741e-4fec-a9f2-da3214518d0c.png" width="50" height="50" alt="seq"  />
+  
 </div>
 
 <br>
