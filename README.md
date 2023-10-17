@@ -22,13 +22,13 @@ canberk.timurlenk@gmail.com
 <br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />
+  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo"  />
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3 logo"  />
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript logo"  />
+  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript logo"  />
 </div>
 
 <br>
@@ -38,19 +38,19 @@ canberk.timurlenk@gmail.com
 <br>
 
 <div align="left">
-  <img title="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis"  />
+  <img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq"  />
+  <img title="RabbitMQ" src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman"  />
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" width="50" height="50" alt="automapper"  />
+  <img title="Automapper" src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" width="50" height="50" alt="automapper"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="50" height="50" alt="hangfire"  />
+  <img title="Hangfire" src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="50" height="50" alt="hangfire"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/73644073/262452910-8b64c1b5-24bd-4650-bc89-01d3f5c32380.png" width="50" height="50" alt="serilog"  />
+  <img title="Serilog" src="https://user-images.githubusercontent.com/73644073/262452910-8b64c1b5-24bd-4650-bc89-01d3f5c32380.png" width="50" height="50" alt="serilog"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/73644073/262451516-abce2e5e-741e-4fec-a9f2-da3214518d0c.png" width="50" height="50" alt="seq"  />
+  <img title="Seq" src="https://user-images.githubusercontent.com/73644073/262451516-abce2e5e-741e-4fec-a9f2-da3214518d0c.png" width="50" height="50" alt="seq"  />
   
 </div>
 
@@ -59,9 +59,9 @@ canberk.timurlenk@gmail.com
 #### Databases
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
+  <img title="Microsoft SQL Server" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
 <br>
@@ -70,11 +70,11 @@ canberk.timurlenk@gmail.com
 
 <div>
   <a href="https://www.linkedin.com/in/canberk-timurlenk/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="LinkedIn" width="50" height="50" />
+    <img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="LinkedIn" width="50" height="50" />
   </a>
   <img width="12" />
   <a href="mailto:canberk.timurlenk@gmail.com">
-    <img src="https://winaero.com/blog/wp-content/uploads/2019/02/Windows-10-Mail-icon.png" alt="LinkedIn" width="50" height="50" />
+    <img title="Mail" src="https://winaero.com/blog/wp-content/uploads/2019/02/Windows-10-Mail-icon.png" alt="Mail" width="50" height="50" />
   </a>
 </div>
 
