@@ -74,7 +74,7 @@ canberk.timurlenk@gmail.com
   </a>
   <img width="12" />
   <a href="mailto:canberk.timurlenk@gmail.com">
-    <img title="Email" src="https://winaero.com/blog/wp-content/uploads/2019/02/Windows-10-Mail-icon.png" alt="Email" width="50" height="50" />
+    <img title="Email" src="https://github.com/CanberkTimurlenk/CanberkTimurlenk/assets/18058846/61becbf6-b732-4da5-b08c-6036d95e9f62" alt="Email" width="50" height="50" />
   </a>
 </div>
 
