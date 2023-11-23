@@ -52,7 +52,7 @@ canberk.timurlenk@gmail.com
   <img width="7" />
   <img title="Seq" src="https://user-images.githubusercontent.com/73644073/262451516-abce2e5e-741e-4fec-a9f2-da3214518d0c.png" width="50" height="50" alt="seq"  />
   <img width="7" />
-  <img title="Mediatr" src="https://github.com/CanberkTimurlenk/CanberkTimurlenk/assets/18058846/16774d62-498c-4403-83ab-d6d9b6486c4f" width="50" height="50" alt="mediatr"  />
+  <img title="MediatR" src="https://github.com/CanberkTimurlenk/CanberkTimurlenk/assets/18058846/16774d62-498c-4403-83ab-d6d9b6486c4f" width="50" height="50" alt="mediatr"  />
 
 </div>
 
