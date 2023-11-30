@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-* 🔭 Currently developing Back-End projects.
+* 🔭 Currently learning Microservices.
 * :mortar_board: Graduated from Bilgi University in 2021 with a major in Electrical and Electronics Engineering.
 * 🌟 Experience in C#, Asp.Net Core Web API, RESTful API Development, Asp.Net Core MVC, N-Tier Architecture, Onion Architecture
 * :dart: Enhancing my skills by solving coding problems on various platforms, acquiring knowledge about cutting-edge technologies, and also undertaking new projects.
