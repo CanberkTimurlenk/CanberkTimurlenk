@@ -17,12 +17,27 @@ canberk.timurlenk@gmail.com
 <br>
 
 # 🚀 Skills
+
+
+#### Frameworks
+
+<br>
+
+<div align="left">
+  <img title="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="50" height="50" alt="spring logo" />
+  <img width="10" />
+  <img title=".NET" src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="dot-net logo"  />  
+<br> 
+<br>
+
 #### Programming Languages
 
 <br>
 
 <div align="left">
-  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" width="50" height="50 alt="java logo"  />
+  <img width="10" />
+  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />    
   <img width="10" />
   <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo"  />
   <img width="10" />
