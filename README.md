@@ -52,7 +52,12 @@ canberk.timurlenk@gmail.com
 
 <br>
 
-<div align="left">
+<div align="left">  
+  
+  <img title="Apache-Kafka" src="https://github.com/CanberkTimurlenk/CanberkTimurlenk/assets/18058846/cecc4ad6-bf4a-427d-9195-fea872b141be" width="60" height="50" alt="apache-kafka"  />
+  <img width="7" />
+  <img title="gRPC" src="https://github.com/CanberkTimurlenk/CanberkTimurlenk/assets/18058846/3697984b-05b9-4bf0-bd59-99dbbe050ba4" width="50" height="50" alt="gRPC"  />
+  <img width="7" />
   <img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis"  />
   <img width="7" />
   <img title="RabbitMQ" src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq"  />
@@ -79,8 +84,10 @@ canberk.timurlenk@gmail.com
   <img title="Microsoft SQL Server" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="18" />
   <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="6" />
+  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
   <img width="12" />
 </div>
 
