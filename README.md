@@ -78,7 +78,7 @@ canberk.timurlenk@gmail.com
 #### Databases
 
 <div align="left">
-  <img title="Microsoft SQL Server" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
+  <img title="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="18" />
