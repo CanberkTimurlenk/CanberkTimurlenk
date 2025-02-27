@@ -6,7 +6,7 @@
 
 * 🔭 **Currently Learning:** Microservice development with the Spring Framework. I am developing an ECommerce back-end project to learn microservices patterns, Spring Cloud elements, and AWS components. [Navigate to the project](https://github.com/CanberkTimurlenk/Spring-Microservices)
 * :mortar_board: **Education:** Graduated from Bilgi University in 2021 with a major in Electrical and Electronics Engineering.
-* 🌟 **Experience:** Experience in C#, Asp.Net Core Web API, RESTful API Development, Asp.Net Core MVC, N-Tier Architecture, Onion Architecture
+* 🌟 **Experience:** Experience in Java,Spring, C#, Asp.Net Core
 * 🏃 **Continuous Improvement:** Enhancing my skills by solving coding problems on various platforms, acquiring knowledge about cutting-edge technologies, and also undertaking new projects.
 
 <br>
