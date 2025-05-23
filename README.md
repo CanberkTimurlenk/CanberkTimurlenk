@@ -37,13 +37,7 @@ canberk.timurlenk@gmail.com
 <div align="left">
   <img title="Java" src="https://skillicons.dev/icons?i=java" width="50" height="50 alt="java logo"  />
   <img width="10" />
-  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />    
-  <img width="10" />
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo"  />
-  <img width="10" />
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3 logo"  />
-  <img width="10" />
-  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript logo"  />
+  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />          
 </div>
 
 <br>
@@ -66,10 +60,7 @@ canberk.timurlenk@gmail.com
   <img width="7" />
   <img title="Testcontainers" src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" width="50" height="50" alt="Testcontainers"  />
   <img width="7" />
-  <img title="Postman" src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"  />
-  <img width="7" />
-  <img title="Seq" src="https://user-images.githubusercontent.com/73644073/262451516-abce2e5e-741e-4fec-a9f2-da3214518d0c.png" width="50" height="50" alt="seq"  />
-  <img width="7" />
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"  />  
 
 </div>
 
